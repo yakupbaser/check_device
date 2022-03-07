@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "29878469865",
+    "project_id": "checkdevicedemo",
+    "storage_bucket": "checkdevicedemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29878469865:android:25d14fa726a262e1019c78",
+        "android_client_info": {
+          "package_name": "com.yaken.check_device"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29878469865-t72mqu2k6bdafoorukaig9ditgp7ki4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcdAkAJog9uvrfmMo-IOHNEorsdThTJsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29878469865-t72mqu2k6bdafoorukaig9ditgp7ki4r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "29878469865-jonjfoi11su766badvd707pbcrej8agl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yaken"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
